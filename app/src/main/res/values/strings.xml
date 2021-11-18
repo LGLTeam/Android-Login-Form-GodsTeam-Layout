@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GodsTeam</string>
+    <string name="project_name">PUBG ESP Patcher</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="bottom_string">Made By KMods © 2019</string>
+</resources>
