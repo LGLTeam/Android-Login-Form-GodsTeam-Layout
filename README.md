@@ -5,7 +5,7 @@ Login form with Godsteam layout in Java only.
 
 Follow our Telegram channel for latest updates: https://t.me/Layout_musk
 
-Thanks @springmusk026 for sharing
+Thanks @springmusk026 for sharing to me
 
 ![](src1.jpg)
 ![](src2.jpg)
